@@ -1,7 +1,7 @@
-<img src="https://github.com/mohammademon551/mohammademon551/main/svg.svg"/>
+<img src="https://github.com/mohammademon551/mohammademon551/blob/main/svg.svg"/>
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working Mern-Stack Development!
+- 🔭 I’m currently working MERN-Stack Developer!
 - 🌱 I’m currently learning everything 🤣
 - 🌱 I'm trying to be more creative and will come back soon with something unique 🤣
 - 🥅 2021 Goals: React Native, Next.js 
@@ -36,7 +36,6 @@
 <code><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"></code>
 <code><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></code>
-<code><img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white"></code>
 <code><img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"></code>
 <code><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"></code>
 <code><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></code>
