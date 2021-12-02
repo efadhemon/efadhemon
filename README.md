@@ -2,9 +2,7 @@
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working MERN-Stack Developer!
-- 🌱 I’m currently learning everything 🤣
-- 🌱 I'm trying to be more creative and will come back soon with something unique 🤣
-- 🥅 2021 Goals: React Native, Next.js 
+- 🌱 I'm trying to be more creative and will come back soon with something unique
 - 🥅  I always like to learn new things and have experience with new stuff 
 - ⚡ Fun fact: I love to Explore the world 
 
@@ -42,5 +40,7 @@
 <code><img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"></code>
 <code> and more. </code>
 
-![Emon's github stats](https://github-readme-stats.vercel.app/api?username=efadhemon&show_icons=true&hide_border=true)
-![Emon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=efadhemon&show_icons=true&hide_border=true)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=efadhemon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Emon's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efadhemon&layout=compact&theme=buefy&hide_border=true" />|
+
+| ------------- | ------------- |
