@@ -40,7 +40,5 @@
 <code><img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"></code>
 <code> and more. </code>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=efadhemon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Emon's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efadhemon&layout=compact&theme=buefy&hide_border=true" />|
-
+| <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=efadhemon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Emon's github stats" /></a> | <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efadhemon&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
