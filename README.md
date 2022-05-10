@@ -1,3 +1,5 @@
+[![MasterHead](/assets/banner.gif)](https://github.com/efadhemon/efadhemon/blob/main/assets/programmer.gif)
+
 <h1 align="center">Hi <img alt="Coding" width="30" src="/assets/hello.gif"/>, I'm Emon Hossain</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
@@ -41,10 +43,11 @@
 ## Some line about me
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/><br/>
+:hearts: &emsp;I love writing code and learning new things<br/><br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/><br/>
-🤔 &emsp;I’m looking for a new job.<br/><br/>
 :e-mail: &emsp;How to reach me: efadhemon@gmail.com.<br/><br/>
-⚡ &emsp;Fun fact: I love to Explore the world
+⚡ &emsp;Fun fact: I love to Explore the world.<br/><br/>
+💬 &emsp;Ask me about anything [here](https://github.com/efadhemon/efadhemon/issues)
 
 <p><br/><br/></p>
 
