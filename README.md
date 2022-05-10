@@ -44,7 +44,9 @@
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/><br/>
 🤔 &emsp;I’m looking for a new job.<br/><br/>
 :e-mail: &emsp;How to reach me: efadhemon@gmail.com.<br/><br/>
-⚡ &emsp;Fun fact: I love to Explore the world <br/><br/>
+⚡ &emsp;Fun fact: I love to Explore the world
+
+<p><br/><br/></p>
 
 ### Things I code with
 
