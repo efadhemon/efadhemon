@@ -11,16 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=efadhemon&label=Visitors&color=0e75b6&style=flat" alt="efadhemon" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="/assets/programmer.gif"/>
-
-:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-🤔 &emsp;I’m looking for a new job.<br/>
-:e-mail: &emsp;How to reach me: efadhemon@gmail.com.<br/>
-⚡ &emsp;Fun fact: I love to Explore the world
-
-<br/>
-
 <h3 align="center">Find in me in the web 🌍</h3>
 
 <p align="center">
@@ -45,6 +35,16 @@
 </p>
 
 <br />
+
+<img align="right" alt="Coding" width="400" src="/assets/programmer.gif"/>
+
+:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+🤔 &emsp;I’m looking for a new job.<br/>
+:e-mail: &emsp;How to reach me: efadhemon@gmail.com.<br/>
+⚡ &emsp;Fun fact: I love to Explore the world
+
+<br/>
 
 #### Things I code with
 
