@@ -14,7 +14,7 @@
 <h3 align="center">Find in me in the web 🌍</h3>
 
 <p align="center">
-  <a href="https://alsiam.com" target="_blank">
+  <a href="https://emonhossain.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiamworld" />
   </a> 
   <a href="https://linkedin.com/in/efadhemon" target="_blank">
@@ -36,7 +36,9 @@
 
 <br />
 
-<img align="right" alt="Coding" width="400" src="/assets/programmer.gif"/>
+<img align="right" alt="Coding" width="400px" src="/assets/programmer.gif"/>
+
+## Some line about me
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/><br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/><br/>
