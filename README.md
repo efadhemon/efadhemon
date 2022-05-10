@@ -1,5 +1,3 @@
-[![MasterHead](/assets/banner.gif)](https://github.com/efadhemon/efadhemon/blob/main/assets/programmer.gif)
-
 <h1 align="center">Hi <img alt="Coding" width="30" src="/assets/hello.gif"/>, I'm Emon Hossain</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
@@ -13,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=efadhemon&label=Visitors&color=0e75b6&style=flat" alt="efadhemon" />
 </p>
 
-<h3 align="center">Find in me in the web 🌍</h3>
+<h3 align="center">Connect With Me</h3>
 
 <p align="center">
   <a href="https://emonhossain.com" target="_blank">
@@ -21,9 +19,6 @@
   </a> 
   <a href="https://linkedin.com/in/efadhemon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="efadhemon" />
-  </a>
-  <a href="https://dev.to/efadhemon" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="efadhemon" />
   </a>
   <a href="https://twitter.com/efadhemon" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -40,12 +35,12 @@
 
 <img align="right" alt="Coding" width="400px" src="/assets/programmer.gif"/>
 
-## Some line about me
+## About me
 
-:hearts: &emsp;I enjoy programming and sharing knowledge <br/><br/>
-:hearts: &emsp;I love writing code and learning new things<br/><br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/><br/>
-:e-mail: &emsp;How to reach me: efadhemon@gmail.com.<br/><br/>
+🥰 &emsp;I enjoy programming and sharing knowledge <br/><br/>
+❤️ &emsp;I love writing code and learning new things<br/><br/>
+💻 &emsp;Most used line of code `console.log("hello world")` <br/><br/>
+📧 &emsp;How to reach me: efadhemon@gmail.com.<br/><br/>
 ⚡ &emsp;Fun fact: I love to Explore the world.<br/><br/>
 💬 &emsp;Ask me about anything [here](https://github.com/efadhemon/efadhemon/issues)
 
