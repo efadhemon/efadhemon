@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img alt="Coding" width="30" src="/assets/hello.gif"/>, I'm Emon Hossain</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
+<br/>
+
 <a href="https://github.com/efadhemon/efadhemon/">
   <img src="/assets/badge.svg" align="left" alt="Build README">
 </a>
@@ -17,7 +19,7 @@
 :e-mail: &emsp;How to reach me: efadhemon@gmail.com.<br/>
 ⚡ &emsp;Fun fact: I love to Explore the world
 
-<p><br></p>
+<br/>
 
 <h3 align="center">Find in me in the web 🌍</h3>
 
