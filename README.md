@@ -3,30 +3,30 @@
 
 <br/>
 
-<a href="https://github.com/efadhemon/efadhemon/">
-  <img src="/assets/badge.svg" align="left" alt="Build README">
+<a href="https://wakatime.com/@ddc55c54-5b43-4abf-ac5d-999ee1b4fab0">
+  <img align="left" src="https://wakatime.com/badge/user/ddc55c54-5b43-4abf-ac5d-999ee1b4fab0.svg" alt="Wakatime badge">
 </a>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=efadhemon&label=Visitors&color=0e75b6&style=flat" alt="efadhemon" />
-</p>
+<a href="https://komarev.com/ghpvc/?username=efadhemon">
+  <img align="right" src="https://komarev.com/ghpvc/?username=efadhemon&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
-  <a href="https://emonhossain.com" target="_blank">
+  <a href="https://emonhossain.com">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiamworld" />
   </a> 
-  <a href="https://linkedin.com/in/efadhemon" target="_blank">
+  <a href="https://linkedin.com/in/efadhemon">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="efadhemon" />
   </a>
-  <a href="https://twitter.com/efadhemon" target="_blank">
+  <a href="https://twitter.com/efadhemon">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a> 
-  <a href="https://instagram.com/efadhemon" target="_blank">
+  <a href="https://instagram.com/efadhemon">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="efadhemon" />
   </a> 
-  <a href="https://facebook.com/efadhemon" target="_blank">
+  <a href="https://facebook.com/efadhemon">
     <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="efadhemon" />
   </a> 
 </p>
@@ -35,7 +35,7 @@
 
 <img align="right" alt="Coding" width="400px" src="/assets/programmer.gif"/>
 
-## About me
+### About me
 
 🥰 &emsp;I enjoy programming and sharing knowledge <br/><br/>
 ❤️ &emsp;I love writing code and learning new things<br/><br/>
