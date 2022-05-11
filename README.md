@@ -4,13 +4,15 @@
 
 <br/>
 
-<a href="https://wakatime.com/@ddc55c54-5b43-4abf-ac5d-999ee1b4fab0">
+<!-- <a href="https://wakatime.com/@ddc55c54-5b43-4abf-ac5d-999ee1b4fab0">
   <img align="left" src="https://wakatime.com/badge/user/ddc55c54-5b43-4abf-ac5d-999ee1b4fab0.svg" alt="Wakatime badge">
-</a>
+</a> -->
 
 <a href="https://komarev.com/ghpvc/?username=efadhemon">
   <img align="right" src="https://komarev.com/ghpvc/?username=efadhemon&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
+
+[![wakatime](https://wakatime.com/badge/user/ddc55c54-5b43-4abf-ac5d-999ee1b4fab0.svg)](https://wakatime.com/@ddc55c54-5b43-4abf-ac5d-999ee1b4fab0)
 
 <h3 align="center">Connect With Me</h3>
 
