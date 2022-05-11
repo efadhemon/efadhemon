@@ -12,8 +12,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=efadhemon&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<!-- [![wakatime](https://wakatime.com/badge/user/ddc55c54-5b43-4abf-ac5d-999ee1b4fab0.svg)](https://wakatime.com/@ddc55c54-5b43-4abf-ac5d-999ee1b4fab0) -->
-
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
@@ -61,11 +59,13 @@
 
 <br/>
 
-| <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=efadhemon&include_all_commits=true&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Emon's github stats" /></a> | <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efadhemon&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Emon's most used languages" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=efadhemon&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="Emon's github stats" /></a> | <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efadhemon&layout=compact&theme=radical" alt="Emon's most used languages" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-[![Emon's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=efadhemon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/efadhemon)
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=efadhemon&&theme=radical">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efadhemon&&theme=radical" alt="efadhemon gitHub streak" width="100%"/>
+</a>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efadhemon&&theme=tokyonight" alt="efadhemon" />
-</p>
+<p></p>
+
+[![Emon's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=efadhemon&bg_color=141321&color=f7d747&line=fd428d&point=FFFFFF&hide_border=true)](https://github.com/efadhemon)
