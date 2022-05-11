@@ -62,8 +62,8 @@
 | <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=efadhemon&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=radical" alt="Emon's github stats" /></a> | <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efadhemon&layout=compact&hide_border=true&theme=radical" alt="Emon's most used languages" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=efadhemon&hide_border=true&theme=radical">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efadhemon&&theme=radical" alt="GitHub streak" width="100%"/>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=efadhemon&theme=radical&hide_border=true">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efadhemon&theme=radical&hide_border=true" alt="GitHub streak" width="100%"/>
 </a>
 
 <p></p>
