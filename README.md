@@ -1,5 +1,6 @@
-<h1 align="center">Hi <img alt="Coding" width="30" src="/assets/hello.gif"/>, I'm Emon Hossain</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+<h1 align="center">Hi <img src="/assets/hello.gif" alt="Hello gif" width="30"/>, I'm Emon Hossain</h1>
+
+<h3 align="center">A passionate Web developer from Bangladesh <img src="/assets/bangladesh.png" alt="Bangladesh national flag" width="24"/></h3>
 
 <br/>
 
@@ -15,25 +16,25 @@
 
 <p align="center">
   <a href="https://emonhossain.com">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiamworld" />
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="website logo" />
   </a> 
   <a href="https://linkedin.com/in/efadhemon">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="efadhemon" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
   </a>
   <a href="https://twitter.com/efadhemon">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo" />
   </a> 
   <a href="https://instagram.com/efadhemon">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="efadhemon" />
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo" />
   </a> 
   <a href="https://facebook.com/efadhemon">
-    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="efadhemon" />
+    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook logo" />
   </a> 
 </p>
 
 <br />
 
-<img align="right" alt="Coding" width="400px" src="/assets/programmer.gif"/>
+<img align="right" src="/assets/programmer.gif" alt="Coding gif" width="400px" />
 
 ### About me
 
