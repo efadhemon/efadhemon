@@ -15,21 +15,27 @@
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
+
   <a href="https://emonhossain.com">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="website logo" />
-  </a> 
+  </a>
+  
   <a href="https://linkedin.com/in/efadhemon">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
   </a>
+
   <a href="https://twitter.com/efadhemon">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo" />
-  </a> 
+  </a>
+
   <a href="https://instagram.com/efadhemon">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo" />
-  </a> 
+  </a>
+
   <a href="https://facebook.com/efadhemon">
     <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook logo" />
-  </a> 
+  </a>
+
 </p>
 
 <br />
@@ -45,7 +51,7 @@
 ⚡ &emsp;Fun fact: I love to Explore the world.<br/><br/>
 💬 &emsp;Ask me about anything [here](https://github.com/efadhemon/efadhemon/issues)
 
-<p><br/><br/></p>
+<p><br/></p>
 
 ### Things I code with
 
