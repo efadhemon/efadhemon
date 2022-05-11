@@ -42,9 +42,9 @@
 
 <img align="right" src="/assets/programmer.gif" alt="Coding gif" width="400px" />
 
-### About me
+### 🥰 About me
 
-🥰 &emsp;I enjoy programming and sharing knowledge <br/><br/>
+✌️ &emsp;I enjoy programming and sharing knowledge <br/><br/>
 ❤️ &emsp;I love writing code and learning new things<br/><br/>
 💻 &emsp;Most used line of code `console.log("hello world")` <br/><br/>
 📧 &emsp;How to reach me: efadhemon@gmail.com<br/><br/>
@@ -57,19 +57,25 @@
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
+<br/>
+
 ### 🔥 Streak stats
 
 <p align="center">
   <a href="https://github.com/efadhemon">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=efadhemon&theme=radical&hide_border=true" alt="GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=efadhemon&theme=radical&hide_border=true&background=1F222E" alt="GitHub streak"/>
   </a>
 </p>
 
+<br/>
+
 ### 📊 Github stats
 
-| <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=efadhemon&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=radical" alt="Emon's github stats" /></a> | <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efadhemon&layout=compact&hide_border=true&theme=radical" alt="Emon's most used languages" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=efadhemon&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=radical&bg_color=1F222E" alt="Github stats" /></a> | <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efadhemon&layout=compact&hide_border=true&theme=radical&bg_color=1F222E" alt="Most used languages" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<br/>
 
 ### 😊 Contribution graph
 
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=efadhemon&bg_color=141321&color=f7d747&line=fd428d&point=FFFFFF&hide_border=true)](https://github.com/efadhemon)
+[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=efadhemon&bg_color=1F222E&color=f7d747&line=fd428d&point=FFFFFF&hide_border=true)](https://github.com/efadhemon)
