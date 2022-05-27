@@ -44,7 +44,9 @@
 <br />
 
 <!-- Programmer Gif Image -->
-<img align="right"  src="/assets/programmer.gif" alt="Coding Gif" width="400px" />
+<p style="float:right" >
+  <img  src="/assets/programmer.gif" alt="Coding Gif" width="400px" />
+</p>
 
 ### About me
 
