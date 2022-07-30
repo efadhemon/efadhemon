@@ -49,10 +49,11 @@
 
 ✌️ &emsp;I enjoy programming and sharing knowledge <br/><br/>
 ❤️ &emsp;I love writing code and learning new things<br/><br/>
-💻 &emsp;Most used line of code `console.log("hello world")` <br/><br/>
-📧 &emsp;How to reach me: efadhemon@gmail.com<br/><br/>
 ⚡ &emsp;Fun fact: I love to Explore the world<br/><br/>
+📧 &emsp;How to reach me: efadhemon@gmail.com<br/><br/>
 💬 &emsp;Ask me about anything [here](https://github.com/efadhemon/efadhemon/issues)
+
+<!-- 💻 &emsp;Most used line of code `console.log("hello world")` <br/><br/> -->
 
 <p><br/></p>
 
