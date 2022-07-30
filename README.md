@@ -11,32 +11,31 @@
 
 <br/>
 
-<!-- Wakatime badge - https://wakatime.com -->
-<a href="https://wakatime.com/@ddc55c54-5b43-4abf-ac5d-999ee1b4fab0">
-  <img align="left" src="https://wakatime.com/badge/user/ddc55c54-5b43-4abf-ac5d-999ee1b4fab0.svg" alt="Wakatime badge">
-</a>
-
 <!-- Profile visitor by antonkomarev - https://github.com/antonkomarev/github-profile-views-counter -->
 <a href="https://komarev.com/ghpvc/?username=efadhemon">
   <img align="right" src="https://komarev.com/ghpvc/?username=efadhemon&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+<!-- Wakatime badge - https://wakatime.com -->
+
+[![wakatime](https://wakatime.com/badge/user/ddc55c54-5b43-4abf-ac5d-999ee1b4fab0.svg)](https://wakatime.com/@ddc55c54-5b43-4abf-ac5d-999ee1b4fab0)
+
 <!-- Socials Links -->
 <h3 align="center">Connect With Me</h3>
 <p align="center">
-  <a href="https://emonhossain.com">
+  <a href="https://emonhossain.com" target="_blank" >
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="website logo" />
   </a>
-  <a href="https://linkedin.com/in/efadhemon">
+  <a href="https://linkedin.com/in/efadhemon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/efadhemon">
+  <a href="https://twitter.com/efadhemon" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo" />
   </a>
-  <a href="https://instagram.com/efadhemon">
+  <a href="https://instagram.com/efadhemon" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo" />
   </a>
-  <a href="https://facebook.com/efadhemon">
+  <a href="https://facebook.com/efadhemon" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook logo" />
   </a>
 </p>
@@ -44,7 +43,7 @@
 <br />
 
 <!-- Programmer Gif Image -->
-<!-- <img align="right" src="/assets/programmer.gif" alt="Coding Gif" width="400px" /> -->
+<img align="right" src="/assets/programmer.gif" alt="Coding Gif" width="350px" />
 
 ### About me
 
