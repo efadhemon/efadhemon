@@ -24,7 +24,7 @@
 <h3 align="center">Connect With Me</h3>
 <p align="center">
   <a href="https://emonhossain.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=www&logoColor=white" alt="website logo" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="website logo" />
   </a>
   <a href="https://linkedin.com/in/efadhemon">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
