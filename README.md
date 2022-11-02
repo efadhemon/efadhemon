@@ -89,11 +89,10 @@
 
 <!-- GitHub activity graph by Ashutosh00710 - https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
-[![Emon's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=efadhemon&bg_color=1F222E&color=f7d747&line=fd428d&point=FFFFFF&hide_border=true)](https://github.com/efadhemon)
+![Emon's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=efadhemon&bg_color=1F222E&color=f7d747&line=fd428d&point=FFFFFF&hide_border=true)
 
 <!-- GitHub Streak stats by DenverCoder1 - hhttps://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/efadhemon">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=efadhemon&theme=radical&hide_border=true&background=1F222E" alt="Emon's GitHub streak"/>
-  </a>
+
+<p align="center" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efadhemon&theme=radical&hide_border=true&background=1F222E" alt="Emon's GitHub streak"/>
 </p>
