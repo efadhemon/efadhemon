@@ -49,11 +49,11 @@
 
 ✌️ &emsp;I enjoy programming and sharing knowledge <br/><br/>
 ❤️ &emsp;I love writing code and learning new things<br/><br/>
-⚡ &emsp;Fun fact: I love to Explore the world<br/><br/>
 📧 &emsp;How to reach me: efadhemon@gmail.com<br/><br/>
 💬 &emsp;Ask me about anything [here](https://github.com/efadhemon/efadhemon/issues)
 
 <!-- 💻 &emsp;Most used line of code `console.log("hello world")` <br/><br/> -->
+<!-- ⚡ &emsp;Fun fact: I love to Explore the world<br/><br/> -->
 
 <p><br/></p>
 
@@ -89,7 +89,7 @@
 
 <!-- GitHub activity graph by Ashutosh00710 - https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=efadhemon&bg_color=1F222E&color=f7d747&line=fd428d&point=FFFFFF&hide_border=true)](https://github.com/efadhemon)
+[![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=efadhemon&bg_color=1F222E&color=f7d747&line=fd428d&point=FFFFFF&hide_border=true)](https://github.com/efadhemon)
 
 <!-- GitHub Streak stats by DenverCoder1 - hhttps://github.com/DenverCoder1/github-readme-streak-stats -->
 
