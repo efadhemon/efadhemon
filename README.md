@@ -23,7 +23,7 @@
 <!-- Socials Links -->
 <h3 align="center">Connect With Me</h3>
 <p align="center">
-  <a href="https://emonhossain.com">
+  <a href="https://efadhemon.com">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="website logo" />
   </a>
   <a href="https://linkedin.com/in/efadhemon">
@@ -84,8 +84,8 @@
 
 <!-- Github stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats -->
 
-| <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=efadhemon&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=radical&bg_color=1F222E" alt="Github stats" /></a> | <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efadhemon&layout=compact&hide_border=true&theme=radical&bg_color=1F222E" alt="Top Langs" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=efadhemon&count_private=true&show_icons=true&hide_border=true&theme=radical&bg_color=1F222E" alt="Github stats" /></a> | <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efadhemon&layout=compact&hide_border=true&theme=radical&bg_color=1F222E" alt="Top Langs" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <!-- GitHub activity graph by Ashutosh00710 - https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
