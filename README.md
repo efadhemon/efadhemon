@@ -84,12 +84,12 @@
 
 <!-- Github stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats -->
 
-| <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=efadhemon&count_private=true&show_icons=true&hide_border=true&theme=radical&bg_color=1F222E" alt="Github stats" /></a> | <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efadhemon&layout=compact&hide_border=true&theme=radical&bg_color=1F222E" alt="Top Langs" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats-efadhemon.vercel.app/api?username=efadhemon&count_private=true&show_icons=true&hide_border=true&theme=radical&bg_color=1F222E" alt="Github stats" /></a> | <a href="https://github.com/efadhemon"><img align="center" src="https://github-readme-stats-efadhemon.vercel.app/api/top-langs/?username=efadhemon&layout=compact&hide_border=true&theme=radical&bg_color=1F222E" alt="Top Langs" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- GitHub activity graph by Ashutosh00710 - https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
-[![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=efadhemon&bg_color=1F222E&color=f7d747&line=fd428d&point=FFFFFF&hide_border=true)](https://github.com/efadhemon)
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=efadhemon&bg_color=1F222E&color=f7d747&line=fd428d&point=FFFFFF&hide_border=true)](https://github.com/efadhemon)
 
 <!-- GitHub Streak stats by DenverCoder1 - hhttps://github.com/DenverCoder1/github-readme-streak-stats -->
 
